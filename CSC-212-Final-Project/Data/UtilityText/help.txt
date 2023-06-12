@@ -1,0 +1,10 @@
+WELCOME TO THE HELP MENU
+Here's the name of the game:
+Enter "take" followed directly by your item to put it in your inventory.
+Enter "drop" followed directly by your item to free it from your inventory.
+Enter "north", "south", "east", or "west" in order to traverse through the rooms.
+Enter "quit" if you'd like to end the game at any place. Note that if you quit, you must rerun the program in order to start a new game. 
+Enter "help" for this help menu.
+
+
+

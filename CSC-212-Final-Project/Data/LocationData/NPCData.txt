@@ -1,0 +1,5 @@
+batcula,Data/CharacterData/Batcula/BatculaDesc.txt,Dungeon,Data/CharacterData/Batcula/BatculaDialogue.txt,bottle
+batman,Data/CharacterData/Batman/batmanDesc.txt,Batman Room,Data/CharacterData/Batman/BatmanDialogue.txt,humanSuit
+bat ruth,Data/CharacterData/Batruth/batruthDesc.txt,Bat Ruth Room,Data/CharacterData/BatRuth/batruthDialogue.txt,ipod
+bat shapiro,Data/CharacterData/BatShapiro/ShapiroDesc.txt,Daily Wire,Data/CharacterData/BatShapiro/ShapiroDialogue.txt,photos
+creepy figure,Data/CharacterData/CreepyFigure/creepyFigureDesc.txt,Transylvania,Data/CharacterData/CreepyFigure/creepyFigureDialogue.txt,ring

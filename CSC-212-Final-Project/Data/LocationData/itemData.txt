@@ -1,0 +1,14 @@
+newspaper,Data/CharacterData/BatShapiro/Newspaper1947.txt,Daily Wire
+pizza,Data/CharacterData/BatShapiro/StalePizza.txt,Daily Wire
+ipod,Data/CharacterData/BatShapiro/Ipod.txt,Daily Wire
+torch,Data/CharacterData/Batcula/TorchBat.txt,Dungeon
+photos,Data/CharacterData/Batcula/Photos.txt,Dungeon
+bottle,Data/CharacterData/Batman/bottle.txt,Living Room
+check,Data/CharacterData/Batman/check.txt,Living Room
+roses,Data/CharacterData/Batman/roses.txt,Living Room
+hairspray,Data/CharacterData/BatRuth/hairspray.txt,Bat Ruth Room
+hummus,Data/CharacterData/BatRuth/hummus.txt,Bat Ruth Room
+ipod,Data/CharacterData/BatRuth/hairspray.txt,Bat Ruth Room
+ring,Data/CharacterData/CreepyFigure/ornateRing.txt,Transylvania
+journal,Data/CharacterData/CreepyFigure/bewitchedJournal.txt,Transylvania
+suit,Data/CharacterData/CreepyFigure/humanSuit.txt,Transylvania

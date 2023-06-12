@@ -1,0 +1,6 @@
+Living Room,Data/LocationData/Text/livingRoom.txt
+Batman Room,Data/LocationData/Text/batmanRoom.txt
+Bat Ruth Room,Data/LocationData/Text/batRuthRoom.txt
+Daily Wire,Data/LocationData/Text/dailyWire.txt
+Dungeon,Data/LocationData/Text/dungeon.txt
+Transylvania,Data/LocationData/Text/transylvania.txt

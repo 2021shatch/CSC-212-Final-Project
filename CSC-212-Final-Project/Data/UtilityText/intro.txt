@@ -1,0 +1,5 @@
+Congratulations! You’ve been accepted as the only human contestant at the reality TV show The Batchelor! Roam the rooms, get to know the lovely bachelors, and find love. 
+
+Within each room, you should find a plethora of objects! All of which, can bring you closer to your desired suitor. You have three chances with each candidate and each interaction will bring you closer and closer to learning which object your suitor is looking for. 
+
+Once you give your suitor the correct object, you've won the game! Otherwise, you are stuck traversing through the rooms. Best of luck! And if you need help, just type HELP into the command line to learn more. 

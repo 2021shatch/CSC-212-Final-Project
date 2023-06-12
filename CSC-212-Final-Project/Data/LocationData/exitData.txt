@@ -1,0 +1,7 @@
+Source,North,South,East,West
+Living Room,Dungeon,Daily Wire,Batman Room,Bat Ruth Room
+Dungeon,,Living Room,,
+Transylvania,,,,(Dungeon)
+Bat Ruth Room,,,Living Room,
+Daily Wire,Living Room,,,
+Batman Room,,,,Living Room
